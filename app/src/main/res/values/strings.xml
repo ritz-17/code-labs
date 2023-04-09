@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">code-labs</string>
+    <string name="programming_simplified">"PROGRAMMING SIMPLIFIED"</string>
+    <string name="next">next</string>
+    <string name="understand_logic_behind_your_code_better">understand logic behind your code better</string>
+    <string name="understand_what_a_particular_code_is_actually_doing">understand what a particular code is actually doing</string>
+    <string name="visualize_various_algorithims">visualize various algorithims</string>
+    <string name="home">Home</string>
+    <string name="code_with_puzzle">code with puzzle</string>
+    <string name="visualize">Visualize</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
