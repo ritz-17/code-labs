@@ -32,7 +32,7 @@ class visualizer : Fragment() {
             }
         }
 
-        myWebView.loadUrl("https://codelabs.qmint.repl.co/visualize")
+        myWebView.loadUrl("https://codelabs-kqli4prj1-qmint1.vercel.app/visualize")
         myWebView.settings.javaScriptEnabled = true
         myWebView.settings.allowContentAccess = true
         myWebView.settings.domStorageEnabled = true
